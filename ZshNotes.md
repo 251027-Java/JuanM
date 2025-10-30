@@ -21,3 +21,8 @@
 - Relative Path - file path starting with . that defines the relation to the current working directory
 	- .. - used with Relative Paths to denote the parent directory
 
+## Git Notes
+- git add <fileName> - adds a file and its changes to staging
+- git commit - create a saved state
+	- -m "(message)" - add a PROFESSIONAL commit message
+
