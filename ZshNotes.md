@@ -22,7 +22,10 @@
 	- .. - used with Relative Paths to denote the parent directory
 
 ## Git Notes
+- git status - display the status of the repository to the terminal
 - git add <fileName> - adds a file and its changes to staging
 - git commit - create a saved state
 	- -m "(message)" - add a PROFESSIONAL commit message
+- git init - initialize a new local repository
+- git log - display the history of commits to the terminal
 
